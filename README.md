@@ -9,8 +9,8 @@ Il repository include i seguenti file:
 * **`Text Generation e Chatbot.pdf`**
   Elaborato scritto completo.
 
-* **`Presentazione Text Generation e Chatbot.pptx`**
-  Presentazione PowerPoint utilizzata durante l’esposizione orale.
+* **`Presentazione Text Generation e Chatbot.pdf`**
+  Presentazione PowerPoint (convertita in pdf) utilizzata durante l’esposizione orale.
 
 ## Obiettivo del lavoro
 
